@@ -134,3 +134,6 @@ config/development.json
 
 # ignore app.yaml
 *.yaml
+
+# ignore init
+config/init.js
