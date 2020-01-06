@@ -137,5 +137,3 @@ config/development.json
 
 # ignore init
 config/init.js
-
-config
